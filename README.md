@@ -3,15 +3,15 @@ My first repository.
 
 # Stranger Things
 
-*Stranger Things* is a **science fiction horror series** created by the Duffer Brothers. Set in the 1980s, it follows a group of kids in the small town of Hawkins, Indiana, who encounter supernatural events linked to a parallel dimension called the Upside Down.
+Stranger Things is a science fiction horror series created by the Duffer Brothers. Set in the 1980s, it follows a group of kids in the small town of Hawkins, Indiana, who encounter supernatural events linked to a parallel dimension called the Upside Down.
 
-## **Plot Overview**
+## Plot Overview
 
-> *"Friends don't lie."* — Eleven
+> "Friends don't lie." — Eleven
 
 When a young boy named *Will Byers* goes missing, his friends embark on a mission to find him, only to encounter a mysterious girl with psychic powers named *Eleven*. As they dig deeper, they uncover a government conspiracy and a dark alternate dimension that threatens their world.
 
-## **Main Cast**
+## Main Cast
 
 | Actor                | Character        |
 |----------------------|------------------|
@@ -22,17 +22,17 @@ When a young boy named *Will Byers* goes missing, his friends embark on a missio
 | Winona Ryder         | Joyce Byers      |
 | David Harbour        | Jim Hopper       |
 
-## **Key Themes**
+## Key Themes
 
-- **Friendship and Loyalty**: The bond between friends is central to the show's narrative.
-- **Nostalgia and Pop Culture**: The series is filled with references to '80s movies, music, and culture.
-- **Courage and Sacrifice**: Characters often face their fears and make sacrifices for the greater good.
+- Friendship and Loyalty: The bond between friends is central to the show's narrative.
+- Nostalgia and Pop Culture: The series is filled with references to '80s movies, music, and culture.
+- Courage and Sacrifice: Characters often face their fears and make sacrifices for the greater good.
 
-## **Favorite Episodes**
+## Favorite Episodes
 
-1. **"The Vanishing of Will Byers"**: The mysterious disappearance that kicks off the series.
-2. **"The Mind Flayer"**: A thrilling showdown with a dangerous creature from the Upside Down.
-3. **"The Battle of Starcourt"**: An epic finale with intense action and emotional moments.
+1. "The Vanishing of Will Byers": The mysterious disappearance that kicks off the series.
+2. "The Mind Flayer": A thrilling showdown with a dangerous creature from the Upside Down.
+3. "The Battle of Starcourt": An epic finale with intense action and emotional moments.
 
 
 
